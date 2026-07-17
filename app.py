@@ -5,6 +5,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime
+from plotly.express as px
 
 st.set_page_config(page_title="Used Car Analytics Dashboard", page_icon="🚗", layout="wide")
 
